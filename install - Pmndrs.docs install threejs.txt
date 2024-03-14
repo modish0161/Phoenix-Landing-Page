@@ -1,0 +1,30 @@
+https://github.com/pmndrs/react-three-fiber
+---------------------------------------------
+3d Globe coder One install
+----------------------------------------------------
+
+npx create-react-app my-app
+
+cd my-app
+npm start
+
+----------------------------------------------------
+
+https://docs.pmnd.rs/react-three-fiber/getting-started/introduction
+
+npm install three @types/three @react-three/fiber
+
+----------------------------------------------------
+
+https://github.com/pmndrs/drei#readme
+
+npm install @react-three/drei
+
+----------------------------------------------------
+
+https://www.npmjs.com/package/styled-components
+
+npm i styled-components
+
+----------------------------------------------------
+
